@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "NewPortfolio",
-      port: "80",
+      port: "3004",
       exec_mode: "cluster",
       instances: "max",
       script: "./.output/server/index.mjs",
