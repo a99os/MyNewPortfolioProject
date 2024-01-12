@@ -17,7 +17,7 @@
 </template>
 <script setup>
 function copy(tel) {
-  if (trl) {
+  if (tel) {
     navigator.clipboard.writeText("+998993147571");
     window.location.href = `tel:${+998993147571}`;
   }
