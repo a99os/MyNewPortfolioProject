@@ -1,0 +1,1 @@
+import{c as n,b as o,P as s,n as r,g as t,_ as l,o as m,h as p}from"./entry.q6WjGjcC.js";const g={__name:"index",setup(u){return(e,_)=>{const a=l;return m(),n("div",{class:r(("general"in e?e.general:t(p)).pageBg)},[o(a,{name:"custom",title:"Abbos Ashirboyev","page-name":(e._.provides[s]||e.$route).name},null,8,["page-name"])],2)}}};export{g as default};
